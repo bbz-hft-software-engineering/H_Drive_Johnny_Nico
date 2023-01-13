@@ -19,8 +19,9 @@ Ist der Verbindungsaufbau erfolgreich, kommt die Meldung:
 "Teilnehmer ist im Netzwerk Aktiv"
 "Verbunden mit Server 192.168.1.102"
 
-Mit der Taste "W" kann der Roboter nach rechts gedreht werden
-Mit der Taste "L" kann der Roboter nach links gedreht werden
-Mit der Taste "A" wird das Programm beendet
+Mit der Taste "W" kann der Roboter nach rechts gedreht werden.
+Mit der Taste "L" kann der Roboter nach links gedreht werden.
+Mit der Taste "A" wird das Programm beendet.
+Es darf nur eine Taste gleichzeitig gedrückt werden.
 
-Sobald sich der Motor dreht, wird die Geschwindigkeit angezeigt
+Sobald sich der Motor dreht, wird die Geschwindigkeit angezeigt.
