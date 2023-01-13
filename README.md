@@ -5,7 +5,7 @@ Benutzerhandbuch
 -Programm starten:
 
 Es wird die IP-Adresse abgefragt. Diese lautet:
-IP: 192.168.1.102
+IP: 192.168.1.102 Subnetzmaske: 255.255.255.0
 
 Danach wird der Port abgefragt: 
 Port: 1000
