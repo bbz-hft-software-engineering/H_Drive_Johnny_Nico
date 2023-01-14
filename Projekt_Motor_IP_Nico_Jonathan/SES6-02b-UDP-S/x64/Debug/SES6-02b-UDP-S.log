@@ -1,0 +1,6 @@
+﻿  SES6-02b-UDP-S.cpp
+C:\Users\jonih\source\repos\SE-UDP-Server\SES6-02b-UDP-S\SES6-02b-UDP-S.cpp(169,60): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\jonih\source\repos\SE-UDP-Server\SES6-02b-UDP-S\SES6-02b-UDP-S.cpp(177,60): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\jonih\source\repos\SE-UDP-Server\SES6-02b-UDP-S\SES6-02b-UDP-S.cpp(190,56): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\jonih\source\repos\SE-UDP-Server\SES6-02b-UDP-S\SES6-02b-UDP-S.cpp(146,49): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  SES6-02b-UDP-S.vcxproj -> C:\Users\jonih\source\repos\SE-UDP-Server\x64\Debug\SES6-02b-UDP-S.exe
